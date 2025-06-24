@@ -6,8 +6,8 @@ A personal development blog made using jekyll and the chirpy starter theme
 
 | Priority | Action |
 | :-- | :-- |
-| $${\color{lightgreen}Low}$$ | Ensure favicons work as desired with both light and dark mode browsers. |
-| $${\color{lightgreen}Low}$$ | Devise and implement a better system for categories and tags |
+| $${\color{lightgreen}{\textsf{Low}}}$$ | Ensure favicons work as desired with both light and dark mode browsers. |
+| $${\color{lightgreen}{\textsf{Low}}}$$ | Devise and implement a better system for categories and tags |
 
 
 ## Chirpy Starter
